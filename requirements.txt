@@ -1,0 +1,16 @@
+pip==24.0
+streamlit
+yfinance
+plotly
+cufflinks
+matplotlib
+yfinance
+pandas
+numpy
+datetime
+tensorflow
+scikit-learn
+ta
+requests
+Python-IO
+pyportfolioopt==1.5.5
